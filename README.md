@@ -50,6 +50,6 @@ ylabel('Objective value');
 
 ##### Output:
 
-![convergence curve](C:\Users\dell\Desktop\研究生\个人算法主页\Gravitational Search Algorithm\convergence curve.jpg)
+![](https://github.com/Xavier-MaYiMing/Gravitational-Search-Algorithm/blob/main/convergence%20curve.jpg)
 
 The GSA converges at its 999-th iteration, and the global best value is 2.1691e-17.
